@@ -1,5 +1,5 @@
 
-#Zahlrechner
+#Zahlrechner.
 
 running: bool = True
 ergebnis: int=0
