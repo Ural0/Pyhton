@@ -1,6 +1,5 @@
 
 #Gehalt
-
 gehalt = 100000
 prim = 2000
 aufrittNetto=0
